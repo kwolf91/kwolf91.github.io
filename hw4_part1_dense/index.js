@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Mar. Thou art a Scholler; speake to it Horatio',
   'example4':
-      'For by how much the more pains ye take to please the world, by so much the more shall ye for ever go thankless!'
+      'the more pains ye take to please the world, by so much the more shall ye for ever go thankless!'
       
 };
 
