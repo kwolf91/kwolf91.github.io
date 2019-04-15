@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Vanity was the beginning and the end of Sir Walter Elliot's character.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'What art thou that vsurpst this time of night.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
